@@ -1,6 +1,5 @@
 <div align="center">
   <img src="logo.png" alt="Justa logo" width="72" />
-  <h1>Justa</h1>
 </div>
 
 <p align="center"><strong>Justa</strong> is <em>just a whiteboard</em>.</p>
