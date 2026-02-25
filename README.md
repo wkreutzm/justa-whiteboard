@@ -28,10 +28,9 @@ Everything runs locally in your browser.
 
 ## Why it exists
 
-Sometimes you don’t want a full diagramming tool.  
-You just want to draw something and explain it.
+It exists because I needed a browser-based whiteboard that didn't require me to sign-up, and also didn't have more functionality than I need.
 
-Justa is intentionally minimal and boring — so it never gets in the way of the conversation.
+Justa is intentionally minimal and boring so it never gets in the way of the conversation.
 
 ---
 
